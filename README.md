@@ -6,4 +6,4 @@ This project was divided in two parts:
 - Location estimators (Dead-Reckoning, Unscented Kalman Filter, Extended Kalman Filter and Particle Filter)
 
 ### Part 2
-- Fusion of data of multiple sources and types (continuous and discrete data)
+- Fusion of data of multiple sources
