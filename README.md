@@ -1,4 +1,4 @@
-# SP-Project
+# FIAD-Project
 
 This project was divided in two parts:
 
